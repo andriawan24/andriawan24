@@ -21,7 +21,7 @@ As a Tech Enthusiast, I enjoy using my obsessive attention to detail, my unequiv
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
-<img align="left" alt="Visual Studio Code" width="35px" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" /><br /><br />
+<img align="left" alt="Visual Studio Code" width="30px" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" /><br /><br />
 
 ### Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andriawan24)](https://github.com/anuraghazra/github-readme-stats)
