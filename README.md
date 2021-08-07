@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi there, I'm [Naufal](https://andriawan24.github.io)! 👋
 
-<!--
-**andriawan24/andriawan24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/naufal-fawwaz-andriawan)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://andriawan24.github.io)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/fawaznaufal23)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/andriawan245/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/andriawan24)
 
-Here are some ideas to get you started:
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=andriawan24.andriawan24)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Student, Developer, and Tech Enthusiast, I really love to code, learning about the latest tech and anything about programming, I do like to read a book, travelling, and having a cup of coffee in my favourite coffee shop☕️.
+
+As a Tech Enthusiast, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+
+**Talking about Personal Stuff:**
+
+- 👨🏻‍💻 I’m currently working as an Android Developer;
+- 🚀 I’m currently learning how to design and learn about mobile apps in [buildWith Angga](https://buildwithangga.com/);
+- 💬 Ask me about anything, especially programming stuffs, I am happy to help;
+- 📫 How to reach me: [fawaznaufal23@gmail.com](mailto:fawaznaufal23@gmail.com);
+
+### Languages and Tools:
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+### Github Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andriawan24)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andriawan24&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
