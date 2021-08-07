@@ -20,12 +20,12 @@ As a Tech Enthusiast, I enjoy using my obsessive attention to detail, my unequiv
 - 📫 How to reach me: [fawaznaufal23@gmail.com](mailto:fawaznaufal23@gmail.com);
 
 ### Languages and Tools:
+<img align="left" alt="Visual Studio Code" width="30px" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" /> 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" /> 
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" /> 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://www.howtoweb.co/wp-content/uploads/2020/06/Logos-website-31-1200x667.png" /> 
-<img align="left" alt="Visual Studio Code" width="30px" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" /><br /><br />
+<img align="left" alt="Visual Studio Code" width="56px" src="https://www.howtoweb.co/wp-content/uploads/2020/06/Logos-website-31-1200x667.png" /><br /><br />
 
 ### Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andriawan24)](https://github.com/anuraghazra/github-readme-stats)
