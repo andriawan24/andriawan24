@@ -24,6 +24,7 @@ As a Tech Enthusiast, I enjoy using my obsessive attention to detail, my unequiv
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" /> 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" /> 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" /> 
+<img align="left" alt="Visual Studio Code" width="26px" src="https://www.howtoweb.co/wp-content/uploads/2020/06/Logos-website-31-1200x667.png" /> 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" /><br /><br />
 
 ### Github Stats
