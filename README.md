@@ -15,7 +15,7 @@ As a Tech Enthusiast, I enjoy using my obsessive attention to detail, my unequiv
 **Talking about Personal Stuff:**
 
 - 👨🏻‍💻 I’m currently working as an Android Developer;
-- 🚀 I’m currently learning how to design and learn about mobile apps in [buildWith Angga](https://buildwithangga.com/);
+- 🚀 I’m currently learning how to design and learn about modern architecture of ios and Android application (But in Native way);
 - 💬 Ask me about anything, especially programming stuffs, I am happy to help;
 - 📫 How to reach me: [fawaznaufal23@gmail.com](mailto:fawaznaufal23@gmail.com);
 
