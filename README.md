@@ -10,15 +10,15 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=andriawan24.andriawan24)
 
-I am a Student, Developer, and Tech Enthusiast, I really love to code, learning about the latest tech and anything about programming, I do like to read a book, travelling, and having a cup of coffee in my favourite coffee shop☕️.
+I am a Student, Developer, and Tech Enthusiast, I love to code, and learn about the latest tech and anything about programming, I do like to read a book, traveling, and have a cup of coffee in my favorite coffee shop☕️.
 
-As a Tech Enthusiast, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+As a Tech Enthusiast, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
 **Talking about Personal Stuff:**
 
 - 👨🏻‍💻 I’m currently working as an Android Developer;
-- 🚀 I’m currently learning how to design and learn about modern architecture of ios and Android application (But in Native way);
-- 💬 Ask me about anything, especially programming stuffs, I am happy to help;
+- 🚀 I’m currently learning how to design and learn about the modern architecture of ios and Android applications (But in a Native way);
+- 💬 Ask me about anything, especially programming stuff, I am happy to help;
 - 📫 How to reach me: [fawaznaufal23@gmail.com](mailto:fawaznaufal23@gmail.com);
 
 ### Languages and Tools:
@@ -35,6 +35,6 @@ As a Tech Enthusiast, I enjoy using my obsessive attention to detail, my unequiv
 <img align="left" alt="Whimsical" width="56px" src="https://www.howtoweb.co/wp-content/uploads/2020/06/Logos-website-31-1200x667.png" /><br /><br />
 
 ### Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andriawan24)](https://github.com/anuraghazra/github-readme-stats)
+[![Fawwaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=andriawan24)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andriawan24&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
