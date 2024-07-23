@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/fawaznaufal23)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/andriawan245/)
 
-I'm a Mobile Engineer and Tech Enthusiast. I love to code and learn about the latest tech and anything about programming, I also like to read a book, travel, and have a cup of coffee in my favorite coffee shop☕️. Every weekday I spent building my company, and every weekend I spent building myself.
+I'm a Mobile Engineer and Tech Enthusiast. I love to code and learn about the latest tech and anything about programming, I also like to read a book, travel, and have a cup of coffee in my favorite coffee shop ☕️. Every weekday I spent building my company, and every weekend I spent building myself.
 
 **Talking about Personal Stuff:**
 
