@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+There!;My+Name+is+Naufal+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rethink+Sans&weight=500&size=24&letterSpacing=&duration=4000&pause=1000&color=70A5FD&repeat=false&width=435&lines=Hello+There!+My+Name+is+Fawwaz+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/naufal-fawwaz-andriawan)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://andriawan24.github.io)
@@ -16,6 +16,9 @@ I'm a Mobile Engineer and Tech Enthusiast. I love to code and learn about the la
 - 🌐 Checkout my works here: [https://andriawan.vercel.app](https://andriawan.vercel.app/);
 
 ### Github Stats
-[![Fawwaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=andriawan24)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=andriawan24&theme=tokyonight)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andriawan24&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: inline-flex; gap: 24px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=andriawan24&show_icons=true&theme=tokyonight" alt="Fawwaz's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andriawan24&layout=compact&show_icons=true&theme=tokyonight" alt="Top Langs" />
+</div>
