@@ -10,10 +10,15 @@ I'm a Mobile Engineer and Tech Enthusiast. I love to code and learn about the la
 **Talking about Personal Stuff:**
 
 - 👨🏻‍💻 I’m currently working as a Mobile Engineer, focusing on Android Native Development (and a little bit of iOS);
-- 🚀 I’m currently learning how to design (at least for my personal project);
+- 🚀 I’m currently learning how to design (at least for my personal project), and backend;
 - 💬 Ask me about anything, especially computer science or programming stuff, I am happy to help;
 - 📫 How to reach me: [fawaznaufal23@gmail.com](mailto:fawaznaufal23@gmail.com);
 - 🌐 Checkout my works here: [https://andriawan.vercel.app](https://andriawan.dev/);
+
+### Boot Dev
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/932453a6-4309-46ab-88a1-6be01ff3cc0e/thumbnail" >
+</p>
 
 ### Github Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=andriawan24&theme=tokyonight)](https://git.io/streak-stats)
