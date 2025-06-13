@@ -17,7 +17,7 @@ I'm a Mobile Engineer and Tech Enthusiast. I love to code and learn about the la
 
 ### Boot Dev
 <p align="left">
-  <a href="https://www.boot.dev/u/andriawan24" target="__blank">
+  <a href="https://www.boot.dev/u/andriawan24" target="_blank">
     <img src="https://api.boot.dev/v1/users/public/932453a6-4309-46ab-88a1-6be01ff3cc0e/thumbnail" style="width: 400px;" >
   </a>
 </p>
