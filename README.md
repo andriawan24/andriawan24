@@ -21,11 +21,3 @@ I'm a Mobile Engineer and Tech Enthusiast. I love to code and learn about the la
     <img src="https://api.boot.dev/v1/users/public/932453a6-4309-46ab-88a1-6be01ff3cc0e/thumbnail" style="width: 400px;" >
   </a>
 </p>
-
-### Github Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=andriawan24&theme=tokyonight)](https://git.io/streak-stats)
-
-<div style="display: inline-flex; gap: 24px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=andriawan24&show_icons=true&theme=tokyonight" alt="Fawwaz's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andriawan24&layout=compact&show_icons=true&theme=tokyonight" alt="Top Langs" />
-</div>
