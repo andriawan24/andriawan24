@@ -13,7 +13,7 @@ I'm a Mobile Engineer and Tech Enthusiast. I love to code and learn about the la
 - 🚀 I’m currently learning how to design (at least for my personal project), and backend;
 - 💬 Ask me about anything, especially computer science or programming stuff, I am happy to help;
 - 📫 How to reach me: [fawaznaufal23@gmail.com](mailto:fawaznaufal23@gmail.com);
-- 🌐 Checkout my works here: [https://andriawan.vercel.app](https://andriawan.dev/);
+- 🌐 Checkout my works here: [https://andriawan.dev](https://andriawan.dev/);
 
 ### Boot Dev
 <p align="left">
