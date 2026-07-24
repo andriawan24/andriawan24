@@ -25,9 +25,9 @@ I'm a Mobile Engineer and Tech Enthusiast. I love to code and learn about the la
 ### Latest commits
 
 <!-- LATEST-COMMITS:START -->
-- [`fd756c7`](https://github.com/andriawan24/andriawan-dev-nextjs/commit/fd756c7cd298bf68e2f1f0fe3f60fa743f1445a1) hotfix: Show more button (#247) — [`andriawan24/andriawan-dev-nextjs`](https://github.com/andriawan24/andriawan-dev-nextjs) <sub>Jul 24, 2026</sub>
-- [`918021c`](https://github.com/andriawan24/andriawan-dev-nextjs/commit/918021c26de67809aca48a6b9ff4087d0587e1b5) hotfix: Show more button (#246) — [`andriawan24/andriawan-dev-nextjs`](https://github.com/andriawan24/andriawan-dev-nextjs) <sub>Jul 24, 2026</sub>
-- [`7139483`](https://github.com/andriawan24/andriawan-dev-nextjs/commit/7139483756e893422da98ec604a67c6d546a1338) feat: Update admin page, add Spotify widget on footer (#244) — [`andriawan24/andriawan-dev-nextjs`](https://github.com/andriawan24/andriawan-dev-nextjs) <sub>Jul 24, 2026</sub>
+- [`55f2636`](https://github.com/andriawan24/andriawan24/commit/55f2636c3421278d95a008baadadf59d2de245c1) Merge pull request #1 from andriawan24/agent/latest-commits-readme — [`andriawan24/andriawan24`](https://github.com/andriawan24/andriawan24) <sub>Jul 24, 2026</sub>
+- [`fa41446`](https://github.com/andriawan24/andriawan24/commit/fa414464b80c1ca53c9e7c2e4f5ddf0b0882aae7) add automated latest commits section — [`andriawan24/andriawan24`](https://github.com/andriawan24/andriawan24) <sub>Jul 24, 2026</sub>
 - [`31e9c0c`](https://github.com/andriawan24/banner-blog-maker/commit/31e9c0ce1188eb10faca1b03ec1a1539989cf92a) fix: API route unlocked — [`andriawan24/banner-blog-maker`](https://github.com/andriawan24/banner-blog-maker) <sub>Jul 22, 2026</sub>
 - [`eaebcc5`](https://github.com/andriawan24/banner-blog-maker/commit/eaebcc500ecbf43a728028ca7dae0837e5f8751b) feat: Add new command for postinstall — [`andriawan24/banner-blog-maker`](https://github.com/andriawan24/banner-blog-maker) <sub>Jul 22, 2026</sub>
+- [`abc5513`](https://github.com/andriawan24/banner-blog-maker/commit/abc55138cad319d2082e735cae70f3cc02624c6f) chore: remove unused vercel.svg asset — [`andriawan24/banner-blog-maker`](https://github.com/andriawan24/banner-blog-maker) <sub>Jul 22, 2026</sub>
 <!-- LATEST-COMMITS:END -->
