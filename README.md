@@ -25,9 +25,9 @@ I'm a Mobile Engineer and Tech Enthusiast. I love to code and learn about the la
 ### Latest commits
 
 <!-- LATEST-COMMITS:START -->
+- [`38ca0c0`](https://github.com/andriawan24/cofinance/commit/38ca0c015fdb68ee74b05f701cf0b6df82bdeb71) ci: make Firebase distribution reliable — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Jul 27, 2026</sub>
 - 🔒 Private contribution <sub>Jul 26, 2026</sub>
 - 🔒 Private contribution <sub>Jul 24, 2026</sub>
 - 🔒 Private contribution <sub>Jul 24, 2026</sub>
 - 🔒 Private contribution <sub>Jul 24, 2026</sub>
-- [`31e9c0c`](https://github.com/andriawan24/banner-blog-maker/commit/31e9c0ce1188eb10faca1b03ec1a1539989cf92a) fix: API route unlocked — [`andriawan24/banner-blog-maker`](https://github.com/andriawan24/banner-blog-maker) <sub>Jul 22, 2026</sub>
 <!-- LATEST-COMMITS:END -->
