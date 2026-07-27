@@ -18,11 +18,14 @@ jobs:
 
     steps:
       - name: Check out profile repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
 
       - name: Update README
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_README_TOKEN: ${{ secrets.PROFILE_README_TOKEN }}
+          PROFILE_README_TOKEN_2: ${{ secrets.PROFILE_README_TOKEN_2 }}
+          PROFILE_README_TOKEN_3: ${{ secrets.PROFILE_README_TOKEN_3 }}
         run: node scripts/update-latest-commits.mjs
 
       - name: Commit changes
