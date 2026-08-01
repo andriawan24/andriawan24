@@ -25,9 +25,9 @@ I'm a Mobile Engineer and Tech Enthusiast. I love to code and learn about the la
 ### Latest commits
 
 <!-- LATEST-COMMITS:START -->
+- [`48022aa`](https://github.com/andriawan24/lacak-asset/commit/48022aaade8faacfc46dfb2b8af4a6cd318cdf37) feature: Add agent tooling configuration — [`andriawan24/lacak-asset`](https://github.com/andriawan24/lacak-asset) <sub>Aug 1, 2026</sub>
+- [`e40d863`](https://github.com/andriawan24/lacak-asset/commit/e40d8632c40cab5896ca4c99483ade261f57ff31) feature: Migrate Gradle build to version catalog and update wrapper — [`andriawan24/lacak-asset`](https://github.com/andriawan24/lacak-asset) <sub>Aug 1, 2026</sub>
+- [`8f4c83d`](https://github.com/andriawan24/lacak-asset/commit/8f4c83d042bf7466725a283f310c2d0e47e93de3) feature: Add OpenSpec capability specs and remove superseded plans — [`andriawan24/lacak-asset`](https://github.com/andriawan24/lacak-asset) <sub>Aug 1, 2026</sub>
 - [`bb69a4d`](https://github.com/andriawan24/cofinance/commit/bb69a4df6c763d21ac4f062ced0f09ff7a17cfde) docs: sync Firebase delivery specifications \[skip ci\] — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Jul 27, 2026</sub>
 - [`1cde689`](https://github.com/andriawan24/cofinance/commit/1cde6895da1ce376abb3612f069fe9f06628b4a4) ci: use Node 24 action runtimes — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Jul 27, 2026</sub>
-- [`6364aab`](https://github.com/andriawan24/cofinance/commit/6364aab6b580f8ed8d21faebc700b8fc667f4c86) docs: record Firebase distribution evidence — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Jul 27, 2026</sub>
-- [`38ca0c0`](https://github.com/andriawan24/cofinance/commit/38ca0c015fdb68ee74b05f701cf0b6df82bdeb71) ci: make Firebase distribution reliable — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Jul 27, 2026</sub>
-- 🔒 Private contribution <sub>Jul 26, 2026</sub>
 <!-- LATEST-COMMITS:END -->
