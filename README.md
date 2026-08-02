@@ -25,9 +25,9 @@ I'm a Mobile Engineer and Tech Enthusiast. I love to code and learn about the la
 ### Latest commits
 
 <!-- LATEST-COMMITS:START -->
+- [`51425d2`](https://github.com/andriawan24/lacak-asset/commit/51425d23cba569483e5e68b27cc218bb754a0639) feature: Update specs and docs for cluster-based results, bump to 1.1.0 — [`andriawan24/lacak-asset`](https://github.com/andriawan24/lacak-asset) <sub>Aug 2, 2026</sub>
+- [`8621630`](https://github.com/andriawan24/lacak-asset/commit/862163073dc7537555c4aee8602ef62e8ac21df1) feature: Add test suite for clustering, similarity, and discovery — [`andriawan24/lacak-asset`](https://github.com/andriawan24/lacak-asset) <sub>Aug 2, 2026</sub>
+- [`cf027c2`](https://github.com/andriawan24/lacak-asset/commit/cf027c2b457ec79be1c7d80087421b6122c7e8c3) feature: Group duplicate drawables into clusters and rebuild the tool window — [`andriawan24/lacak-asset`](https://github.com/andriawan24/lacak-asset) <sub>Aug 2, 2026</sub>
 - [`48022aa`](https://github.com/andriawan24/lacak-asset/commit/48022aaade8faacfc46dfb2b8af4a6cd318cdf37) feature: Add agent tooling configuration — [`andriawan24/lacak-asset`](https://github.com/andriawan24/lacak-asset) <sub>Aug 1, 2026</sub>
 - [`e40d863`](https://github.com/andriawan24/lacak-asset/commit/e40d8632c40cab5896ca4c99483ade261f57ff31) feature: Migrate Gradle build to version catalog and update wrapper — [`andriawan24/lacak-asset`](https://github.com/andriawan24/lacak-asset) <sub>Aug 1, 2026</sub>
-- [`8f4c83d`](https://github.com/andriawan24/lacak-asset/commit/8f4c83d042bf7466725a283f310c2d0e47e93de3) feature: Add OpenSpec capability specs and remove superseded plans — [`andriawan24/lacak-asset`](https://github.com/andriawan24/lacak-asset) <sub>Aug 1, 2026</sub>
-- [`bb69a4d`](https://github.com/andriawan24/cofinance/commit/bb69a4df6c763d21ac4f062ced0f09ff7a17cfde) docs: sync Firebase delivery specifications \[skip ci\] — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Jul 27, 2026</sub>
-- [`1cde689`](https://github.com/andriawan24/cofinance/commit/1cde6895da1ce376abb3612f069fe9f06628b4a4) ci: use Node 24 action runtimes — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Jul 27, 2026</sub>
 <!-- LATEST-COMMITS:END -->
