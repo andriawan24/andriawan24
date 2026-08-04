@@ -25,9 +25,9 @@ I'm a Mobile Engineer and Tech Enthusiast. I love to code and learn about the la
 ### Latest commits
 
 <!-- LATEST-COMMITS:START -->
-- [`3d02dd5`](https://github.com/andriawan24/cofinance/commit/3d02dd5d49be9e6e0d01a663e5f3721d4f2f44dc) docs: propose remove-unused-buildsrc-module change — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Aug 4, 2026</sub>
-- [`6e96a11`](https://github.com/andriawan24/cofinance/commit/6e96a1145e356976606619c4f044d03ca43e0b6c) docs: archive Firebase distribution workflows change — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Aug 4, 2026</sub>
-- [`e46f38c`](https://github.com/andriawan24/cofinance/commit/e46f38cdc73094f2ad6dcc09c34c824f04a94433) feat: clear local database on sign-out — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Aug 4, 2026</sub>
-- [`dcdaa1a`](https://github.com/andriawan24/cofinance/commit/dcdaa1a863c22ab1116d4e107935bce8d0e718c7) refactor: drop unused profile message callback and minor cleanup — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Aug 4, 2026</sub>
-- [`e9732bc`](https://github.com/andriawan24/cofinance/commit/e9732bc252954b035b29a58a57abd66ff58033ef) feat: add balance card dark preview and fix balance color token — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Aug 4, 2026</sub>
+- 🔒 Private contribution <sub>Aug 4, 2026</sub>
+- 🔒 Private contribution <sub>Aug 4, 2026</sub>
+- 🔒 Private contribution <sub>Aug 4, 2026</sub>
+- 🔒 Private contribution <sub>Aug 4, 2026</sub>
+- 🔒 Private contribution <sub>Aug 4, 2026</sub>
 <!-- LATEST-COMMITS:END -->
