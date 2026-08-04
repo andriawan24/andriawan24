@@ -25,9 +25,9 @@ I'm a Mobile Engineer and Tech Enthusiast. I love to code and learn about the la
 ### Latest commits
 
 <!-- LATEST-COMMITS:START -->
-- 🔒 Private contribution <sub>Aug 3, 2026</sub>
-- 🔒 Private contribution <sub>Aug 3, 2026</sub>
-- [`51425d2`](https://github.com/andriawan24/lacak-asset/commit/51425d23cba569483e5e68b27cc218bb754a0639) feature: Update specs and docs for cluster-based results, bump to 1.1.0 — [`andriawan24/lacak-asset`](https://github.com/andriawan24/lacak-asset) <sub>Aug 2, 2026</sub>
-- [`8621630`](https://github.com/andriawan24/lacak-asset/commit/862163073dc7537555c4aee8602ef62e8ac21df1) feature: Add test suite for clustering, similarity, and discovery — [`andriawan24/lacak-asset`](https://github.com/andriawan24/lacak-asset) <sub>Aug 2, 2026</sub>
-- [`cf027c2`](https://github.com/andriawan24/lacak-asset/commit/cf027c2b457ec79be1c7d80087421b6122c7e8c3) feature: Group duplicate drawables into clusters and rebuild the tool window — [`andriawan24/lacak-asset`](https://github.com/andriawan24/lacak-asset) <sub>Aug 2, 2026</sub>
+- [`3d02dd5`](https://github.com/andriawan24/cofinance/commit/3d02dd5d49be9e6e0d01a663e5f3721d4f2f44dc) docs: propose remove-unused-buildsrc-module change — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Aug 4, 2026</sub>
+- [`6e96a11`](https://github.com/andriawan24/cofinance/commit/6e96a1145e356976606619c4f044d03ca43e0b6c) docs: archive Firebase distribution workflows change — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Aug 4, 2026</sub>
+- [`e46f38c`](https://github.com/andriawan24/cofinance/commit/e46f38cdc73094f2ad6dcc09c34c824f04a94433) feat: clear local database on sign-out — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Aug 4, 2026</sub>
+- [`dcdaa1a`](https://github.com/andriawan24/cofinance/commit/dcdaa1a863c22ab1116d4e107935bce8d0e718c7) refactor: drop unused profile message callback and minor cleanup — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Aug 4, 2026</sub>
+- [`e9732bc`](https://github.com/andriawan24/cofinance/commit/e9732bc252954b035b29a58a57abd66ff58033ef) feat: add balance card dark preview and fix balance color token — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Aug 4, 2026</sub>
 <!-- LATEST-COMMITS:END -->
