@@ -25,9 +25,9 @@ I'm a Mobile Engineer and Tech Enthusiast. I love to code and learn about the la
 ### Latest commits
 
 <!-- LATEST-COMMITS:START -->
-- 🔒 Private contribution <sub>Aug 4, 2026</sub>
-- 🔒 Private contribution <sub>Aug 4, 2026</sub>
-- 🔒 Private contribution <sub>Aug 4, 2026</sub>
-- 🔒 Private contribution <sub>Aug 4, 2026</sub>
+- [`7d7f635`](https://github.com/andriawan24/cofinance/commit/7d7f63530a74b406760d8daad698c6032b18881a) docs: propose end-to-end-encrypted-sync change — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Aug 6, 2026</sub>
+- [`a585399`](https://github.com/andriawan24/cofinance/commit/a5853991ed7c4180a4e07694368edbd2d4cd3b92) docs: propose on-device-receipt-scanning change — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Aug 6, 2026</sub>
+- [`e2cf601`](https://github.com/andriawan24/cofinance/commit/e2cf601fed04c9ec267963973c22276c785c980a) chore: add openspec verify-change skill and command — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Aug 6, 2026</sub>
+- [`577e05d`](https://github.com/andriawan24/cofinance/commit/577e05d77ad07d8c3f6e2f1eb31d7fce6394b54a) refactor: split finance data layer into per-aggregate data sources — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Aug 6, 2026</sub>
 - 🔒 Private contribution <sub>Aug 4, 2026</sub>
 <!-- LATEST-COMMITS:END -->
