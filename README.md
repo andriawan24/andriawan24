@@ -25,9 +25,9 @@ I'm a Mobile Engineer and Tech Enthusiast. I love to code and learn about the la
 ### Latest commits
 
 <!-- LATEST-COMMITS:START -->
-- [`4f894a0`](https://github.com/vincentiusadhitrisna/NamiJapanese/commit/4f894a0134fd81a962bc19485b079034f4ce1629) chore: add .gitignore and untrack generated/local files — [`vincentiusadhitrisna/NamiJapanese`](https://github.com/vincentiusadhitrisna/NamiJapanese) <sub>Aug 14, 2026</sub>
-- [`fef620b`](https://github.com/andriawan24/cofinance/commit/fef620b94e0839e41b197a87b87cd15f08c7a776) refactor: extract cycle start day setting into its own component — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Aug 12, 2026</sub>
-- [`25d913b`](https://github.com/andriawan24/cofinance/commit/25d913bf80a8a02e34ee77b01b8e9095a626321b) docs: record on-device receipt scanning progress — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Aug 11, 2026</sub>
-- [`c6a8881`](https://github.com/andriawan24/cofinance/commit/c6a8881f8e53f93c1fe0fe0b1082c11227262c94) refactor: tidy finance data layer naming and formatting — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Aug 11, 2026</sub>
-- [`84ea26d`](https://github.com/andriawan24/cofinance/commit/84ea26dd046b871ada0c7f4864c9f165c3aa603c) refactor: drop dead bookmark UI and redundant profile scaffold — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Aug 11, 2026</sub>
+- [`60f321c`](https://github.com/andriawan24/cofinance/commit/60f321cf708dc885fa0266b105cda335862853c9) ci: lint pull request titles against conventional commit types — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Aug 16, 2026</sub>
+- [`dfa1170`](https://github.com/andriawan24/cofinance/commit/dfa1170410dc6ccac8552858c39e7df37ea910cb) refactor: drop unused scope and am/pm option in add transaction screen — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Aug 16, 2026</sub>
+- [`48f9fe2`](https://github.com/andriawan24/cofinance/commit/48f9fe2d681f14bea8d513b2cd39a9a7f58ea57b) style: soften shadow color on bottom navigation and date switcher — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Aug 16, 2026</sub>
+- [`5313014`](https://github.com/andriawan24/cofinance/commit/531301461e1288b6cd72e877b3e3c6af2c7dd4b2) refactor: extract account and profile screen sections into components — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Aug 16, 2026</sub>
+- [`2b99ac9`](https://github.com/andriawan24/cofinance/commit/2b99ac91b464ee233d330935627142f84c1ca5f5) refactor: rename finance sync coordinator to firebase sync coordinator — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Aug 16, 2026</sub>
 <!-- LATEST-COMMITS:END -->
