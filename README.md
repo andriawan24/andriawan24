@@ -25,9 +25,9 @@ I'm a Mobile Engineer and Tech Enthusiast. I love to code and learn about the la
 ### Latest commits
 
 <!-- LATEST-COMMITS:START -->
-- [`e9f21c2`](https://github.com/andriawan24/cofinance/commit/e9f21c2d6a5c417498debb5dc5858dd6110f2c00) Merge pull request #38 from andriawan24/chore/remove-unused-buildsrc — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Aug 17, 2026</sub>
-- [`ad731e6`](https://github.com/andriawan24/cofinance/commit/ad731e6f07f14570fdb8964e3644601836d6cb43) fix: stop an empty receipt corpus from failing every build — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Aug 17, 2026</sub>
-- [`87d0b1e`](https://github.com/andriawan24/cofinance/commit/87d0b1ebdeb89391a2ec636589706d01f3bab624) docs: close out iOS compile verification for buildSrc removal — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Aug 17, 2026</sub>
-- [`60f321c`](https://github.com/andriawan24/cofinance/commit/60f321cf708dc885fa0266b105cda335862853c9) ci: lint pull request titles against conventional commit types — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Aug 16, 2026</sub>
-- [`dfa1170`](https://github.com/andriawan24/cofinance/commit/dfa1170410dc6ccac8552858c39e7df37ea910cb) refactor: drop unused scope and am/pm option in add transaction screen — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Aug 16, 2026</sub>
+- [`48da5f4`](https://github.com/andriawan24/cofinance/commit/48da5f43824f623acf531afedcc8f2ad9b350e2b) style: collapse single-property state and wrap a long mapper signature — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Aug 18, 2026</sub>
+- [`76f8209`](https://github.com/andriawan24/cofinance/commit/76f82094b994854b1355bd1c3fa7854aeabadf50) docs: record the ios test link blocker and pin the pin-attempt policy — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Aug 18, 2026</sub>
+- [`1d6a4f5`](https://github.com/andriawan24/cofinance/commit/1d6a4f588201093c246db0ac5f482a2cccfb4d31) feat: add record cipher and encrypted envelope primitives — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Aug 18, 2026</sub>
+- [`0c5a5a7`](https://github.com/andriawan24/cofinance/commit/0c5a5a7592f8ca6696a749d51a4d961cd30ddd2e) feat: store profile avatars in garage s3 instead of firebase storage — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Aug 18, 2026</sub>
+- [`e8ab411`](https://github.com/andriawan24/cofinance/commit/e8ab4113dfa7ad3d0427d970ba15fe773ca15c08) refactor: sign in with google through firebase auth on ios — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Aug 18, 2026</sub>
 <!-- LATEST-COMMITS:END -->
