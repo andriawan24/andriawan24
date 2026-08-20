@@ -25,9 +25,9 @@ I'm a Mobile Engineer and Tech Enthusiast. I love to code and learn about the la
 ### Latest commits
 
 <!-- LATEST-COMMITS:START -->
+- [`ca7bddb`](https://github.com/Specus-Org/frontend/commit/ca7bddbaedef90e35380b5f43a67e0ed37690da6) fix(aml): correct search layout and report the real match count (#19) — [`Specus-Org/frontend`](https://github.com/Specus-Org/frontend) <sub>Aug 20, 2026</sub>
+- [`c29f671`](https://github.com/Specus-Org/frontend/commit/c29f6715ff707f23c0c500c244b98b0a5227e45f) feat(aml): paginate search results with a load more control (#18) — [`Specus-Org/frontend`](https://github.com/Specus-Org/frontend) <sub>Aug 20, 2026</sub>
 - [`9e410b0`](https://github.com/andriawan24/cofinance/commit/9e410b017e553db6c4907eb71feb042fd1b68998) Merge pull request #40 from andriawan24/feat/e2e-encrypted-sync — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Aug 20, 2026</sub>
 - [`ac0cdc2`](https://github.com/andriawan24/cofinance/commit/ac0cdc2d73bea292ae7713e77ae6141b4e9151fc) ci: supply the storage credentials the build now requires — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Aug 20, 2026</sub>
 - [`9f4aa64`](https://github.com/andriawan24/cofinance/commit/9f4aa646e3d239aa02b45cb348f8e7b4941b020a) feat: sign in with google through the native sdk on ios — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Aug 20, 2026</sub>
-- [`3768910`](https://github.com/andriawan24/cofinance/commit/3768910ab401b8d13b6782e600580e047e8670ed) build(ios): add the GoogleSignIn SPM package and pin the bundle identifier — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Aug 20, 2026</sub>
-- [`7fd1822`](https://github.com/andriawan24/cofinance/commit/7fd182269bae375b822fa5a8876b62680215985c) build: turn on cinterop commonization for the shared module — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Aug 20, 2026</sub>
 <!-- LATEST-COMMITS:END -->
