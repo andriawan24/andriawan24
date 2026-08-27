@@ -25,9 +25,9 @@ I'm a Mobile Engineer and Tech Enthusiast. I love to code and learn about the la
 ### Latest commits
 
 <!-- LATEST-COMMITS:START -->
-- [`ec14a50`](https://github.com/andriawan24/cofinance/commit/ec14a50e3e042afbb643ae5ab0964981d4e96370) build(gradle): upgrade the wrapper to gradle 9.7.1 — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Aug 26, 2026</sub>
-- [`568bde2`](https://github.com/andriawan24/cofinance/commit/568bde2a3736d1ebd35b8e9b68ee8db6ee3a59ba) build(deps): bump firebase, appcompat, s3, and androidx test versions — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Aug 26, 2026</sub>
-- [`5d17313`](https://github.com/andriawan24/cofinance/commit/5d1731399aaf090f7b7ccbcbe26664c0925cccc7) chore(core): drop the unused CURVE_NAME constant and tidy a comment — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Aug 24, 2026</sub>
-- [`22a288f`](https://github.com/andriawan24/cofinance/commit/22a288fee4185956f92ba79af9ca2d6acd55fe33) docs: record the :core extraction, migration removal, and hardware evidence — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Aug 24, 2026</sub>
-- [`9bbf052`](https://github.com/andriawan24/cofinance/commit/9bbf05282d6dd72a09b4c4fe154da3f3de53d074) feat: let the recovery phrase be copied or saved instead of re-typed — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Aug 24, 2026</sub>
+- [`bb879c9`](https://github.com/andriawan24/cofinance/commit/bb879c9b8a6abcd3f847f59d9472878f28362397) refactor(keyring): drop the unused isSetUp default member — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Aug 27, 2026</sub>
+- [`d4b8f2e`](https://github.com/andriawan24/cofinance/commit/d4b8f2e0905d33419180b85f8acaa23fe7115725) chore(main): drop a stale firestore snapshot comment — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Aug 27, 2026</sub>
+- [`e90920b`](https://github.com/andriawan24/cofinance/commit/e90920b1c948ed8df247843a809dc5d3ec84de5e) build(testing): remove the :core-testing module and its test wiring — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Aug 27, 2026</sub>
+- [`56bcd9a`](https://github.com/andriawan24/cofinance/commit/56bcd9a908520ed260cf3ba285b6890947aee518) test: drop the whole test suite ahead of the integration stage — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Aug 27, 2026</sub>
+- [`5136036`](https://github.com/andriawan24/neetcode-practice/commit/51360362e20e8de2c9d0d6ad5039841ed886992c) Add: sentence-similarity - submission-1 — [`andriawan24/neetcode-practice`](https://github.com/andriawan24/neetcode-practice) <sub>Aug 27, 2026</sub>
 <!-- LATEST-COMMITS:END -->
