@@ -25,9 +25,9 @@ I'm a Mobile Engineer and Tech Enthusiast. I love to code and learn about the la
 ### Latest commits
 
 <!-- LATEST-COMMITS:START -->
+- [`148871f`](https://github.com/EngageMedia-video/cinematacms/commit/148871fe95fe9b8c8bad58a23c0111aaa1dc134d) fix: show page name and portal name in account and MFA titles (#897) — [`EngageMedia-video/cinematacms`](https://github.com/EngageMedia-video/cinematacms) <sub>Aug 31, 2026</sub>
 - [`bb879c9`](https://github.com/andriawan24/cofinance/commit/bb879c9b8a6abcd3f847f59d9472878f28362397) refactor(keyring): drop the unused isSetUp default member — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Aug 27, 2026</sub>
 - [`d4b8f2e`](https://github.com/andriawan24/cofinance/commit/d4b8f2e0905d33419180b85f8acaa23fe7115725) chore(main): drop a stale firestore snapshot comment — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Aug 27, 2026</sub>
 - [`e90920b`](https://github.com/andriawan24/cofinance/commit/e90920b1c948ed8df247843a809dc5d3ec84de5e) build(testing): remove the :core-testing module and its test wiring — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Aug 27, 2026</sub>
 - [`56bcd9a`](https://github.com/andriawan24/cofinance/commit/56bcd9a908520ed260cf3ba285b6890947aee518) test: drop the whole test suite ahead of the integration stage — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Aug 27, 2026</sub>
-- [`5136036`](https://github.com/andriawan24/neetcode-practice/commit/51360362e20e8de2c9d0d6ad5039841ed886992c) Add: sentence-similarity - submission-1 — [`andriawan24/neetcode-practice`](https://github.com/andriawan24/neetcode-practice) <sub>Aug 27, 2026</sub>
 <!-- LATEST-COMMITS:END -->
