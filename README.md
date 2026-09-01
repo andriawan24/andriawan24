@@ -25,9 +25,9 @@ I'm a Mobile Engineer and Tech Enthusiast. I love to code and learn about the la
 ### Latest commits
 
 <!-- LATEST-COMMITS:START -->
+- [`a3c57e9`](https://github.com/andriawan24/neetcode-practice/commit/a3c57e9fdca9f0f650107a7619d3fcaf4c0f71e9) Add: first-unique-character-in-a-string - submission-0 — [`andriawan24/neetcode-practice`](https://github.com/andriawan24/neetcode-practice) <sub>Sep 1, 2026</sub>
 - [`0f7f507`](https://github.com/andriawan24/cofinance/commit/0f7f50747ca56abe876f39cb0144ccf040808210) fix(auth): pass the google access token into the firebase credential — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Aug 31, 2026</sub>
 - [`148871f`](https://github.com/EngageMedia-video/cinematacms/commit/148871fe95fe9b8c8bad58a23c0111aaa1dc134d) fix: show page name and portal name in account and MFA titles (#897) — [`EngageMedia-video/cinematacms`](https://github.com/EngageMedia-video/cinematacms) <sub>Aug 31, 2026</sub>
 - [`bb879c9`](https://github.com/andriawan24/cofinance/commit/bb879c9b8a6abcd3f847f59d9472878f28362397) refactor(keyring): drop the unused isSetUp default member — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Aug 27, 2026</sub>
 - [`d4b8f2e`](https://github.com/andriawan24/cofinance/commit/d4b8f2e0905d33419180b85f8acaa23fe7115725) chore(main): drop a stale firestore snapshot comment — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Aug 27, 2026</sub>
-- [`e90920b`](https://github.com/andriawan24/cofinance/commit/e90920b1c948ed8df247843a809dc5d3ec84de5e) build(testing): remove the :core-testing module and its test wiring — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Aug 27, 2026</sub>
 <!-- LATEST-COMMITS:END -->
