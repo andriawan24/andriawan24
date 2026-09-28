@@ -25,9 +25,9 @@ I'm a Mobile Engineer and Tech Enthusiast. I love to code and learn about the la
 ### Latest commits
 
 <!-- LATEST-COMMITS:START -->
+- [`e44cdc0`](https://github.com/EngageMedia-video/cinematacms/commit/e44cdc0d76de5e9bb41b1b4c61d7c24e3433c0a1) fix: Homepage performance (#963) — [`EngageMedia-video/cinematacms`](https://github.com/EngageMedia-video/cinematacms) <sub>Sep 28, 2026</sub>
 - [`e8a7149`](https://github.com/Specus-Org/frontend/commit/e8a7149a4fe1bf99e981b35ab8685ea23bfe1e31) feat(aml): show search filters as chips on the results page (#22) — [`Specus-Org/frontend`](https://github.com/Specus-Org/frontend) <sub>Sep 28, 2026</sub>
 - [`4c6e67b`](https://github.com/Specus-Org/frontend/commit/4c6e67b109f33d8007def130f13f8e00b2149720) fix(aml): shrink the search filter row (#21) — [`Specus-Org/frontend`](https://github.com/Specus-Org/frontend) <sub>Sep 27, 2026</sub>
 - [`7c6afc8`](https://github.com/Specus-Org/frontend/commit/7c6afc80ff039c1c85e6661521a76bdaeac83699) feat(aml): filter search results by topic and country (#20) — [`Specus-Org/frontend`](https://github.com/Specus-Org/frontend) <sub>Sep 26, 2026</sub>
 - [`949a579`](https://github.com/andriawan24/neetcode-practice/commit/949a57921d19f762f817ddc3496d9121a2145e71) Add: insertionSort - submission-1 — [`andriawan24/neetcode-practice`](https://github.com/andriawan24/neetcode-practice) <sub>Sep 22, 2026</sub>
-- [`3f3bf42`](https://github.com/EngageMedia-video/cinematacms/commit/3f3bf427142002393a0d03df66feb26b60f4d1d7) feat(playlist): explain why private films cannot be saved (#877) (#945) — [`EngageMedia-video/cinematacms`](https://github.com/EngageMedia-video/cinematacms) <sub>Sep 21, 2026</sub>
 <!-- LATEST-COMMITS:END -->
