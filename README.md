@@ -25,9 +25,9 @@ I'm a Mobile Engineer and Tech Enthusiast. I love to code and learn about the la
 ### Latest commits
 
 <!-- LATEST-COMMITS:START -->
-- 🔒 Private contribution <sub>Oct 5, 2026</sub>
-- 🔒 Private contribution <sub>Oct 5, 2026</sub>
-- 🔒 Private contribution <sub>Oct 5, 2026</sub>
-- 🔒 Private contribution <sub>Oct 5, 2026</sub>
-- 🔒 Private contribution <sub>Oct 5, 2026</sub>
+- [`aee51fa`](https://github.com/andriawan24/neetcode-practice/commit/aee51fa5290ef38dfdfa348923c5d6045274449f) Add: missing-number - submission-5 — [`andriawan24/neetcode-practice`](https://github.com/andriawan24/neetcode-practice) <sub>Oct 6, 2026</sub>
+- [`5e094b5`](https://github.com/andriawan24/neetcode-practice/commit/5e094b56793059f2e34fbaae8190351c90c803ff) Add: missing-number - submission-3 — [`andriawan24/neetcode-practice`](https://github.com/andriawan24/neetcode-practice) <sub>Oct 6, 2026</sub>
+- [`74ecc27`](https://github.com/andriawan24/neetcode-practice/commit/74ecc27776b3d69659bf8858a3f794faec7427ba) Add: missing-number - submission-2 — [`andriawan24/neetcode-practice`](https://github.com/andriawan24/neetcode-practice) <sub>Oct 6, 2026</sub>
+- [`72bce64`](https://github.com/andriawan24/neetcode-practice/commit/72bce64893e5b418db79609696269bffd2ad70d5) Add: missing-number - submission-1 — [`andriawan24/neetcode-practice`](https://github.com/andriawan24/neetcode-practice) <sub>Oct 6, 2026</sub>
+- [`090f539`](https://github.com/andriawan24/neetcode-practice/commit/090f5392ddabf8383f9526977e29e7299da3c64e) Add: missing-number - submission-0 — [`andriawan24/neetcode-practice`](https://github.com/andriawan24/neetcode-practice) <sub>Oct 6, 2026</sub>
 <!-- LATEST-COMMITS:END -->
