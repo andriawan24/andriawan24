@@ -25,9 +25,9 @@ I'm a Mobile Engineer and Tech Enthusiast. I love to code and learn about the la
 ### Latest commits
 
 <!-- LATEST-COMMITS:START -->
+- [`e754ed9`](https://github.com/EngageMedia-video/cinematacms/commit/e754ed9a6ed35540cdc0254604d3ccc7abddf8d8) feat(video-viewer): auto-link bare URLs in descriptions and comments (#977) — [`EngageMedia-video/cinematacms`](https://github.com/EngageMedia-video/cinematacms) <sub>Oct 7, 2026</sub>
 - [`3d7e4e8`](https://github.com/EngageMedia-video/cinematacms/commit/3d7e4e8c0ce1e1fb052843e1c31f7611a10150fe) fix(media): keep comment text aligned with the caret once the field scrolls (#976) — [`EngageMedia-video/cinematacms`](https://github.com/EngageMedia-video/cinematacms) <sub>Oct 6, 2026</sub>
 - [`1fef3c3`](https://github.com/EngageMedia-video/cinematacms/commit/1fef3c3472032c1f23f67be244a2eb67d4a91db6) fix(search): align filter rail with results and make it stick (#971) — [`EngageMedia-video/cinematacms`](https://github.com/EngageMedia-video/cinematacms) <sub>Oct 6, 2026</sub>
-- 🔒 Private contribution <sub>Oct 6, 2026</sub>
 - 🔒 Private contribution <sub>Oct 6, 2026</sub>
 - 🔒 Private contribution <sub>Oct 6, 2026</sub>
 <!-- LATEST-COMMITS:END -->
