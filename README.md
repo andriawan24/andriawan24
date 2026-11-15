@@ -25,9 +25,9 @@ I'm a Mobile Engineer and Tech Enthusiast. I love to code and learn about the la
 ### Latest commits
 
 <!-- LATEST-COMMITS:START -->
+- [`5a123d7`](https://github.com/EngageMedia-video/cinematacms/commit/5a123d79642bab8a9f7b29908f9969052174e497) fix(video-viewer): add Report and withdraw-report actions to the media page (#1155) — [`EngageMedia-video/cinematacms`](https://github.com/EngageMedia-video/cinematacms) <sub>Nov 15, 2026</sub>
+- [`19f5ac4`](https://github.com/EngageMedia-video/cinematacms/commit/19f5ac4abda16a6aadd6371201efee465cc09b04) feat(upload): adopt tus for resumable media uploads (#1005) (#1140) — [`EngageMedia-video/cinematacms`](https://github.com/EngageMedia-video/cinematacms) <sub>Nov 15, 2026</sub>
 - [`8c5e9c6`](https://github.com/EngageMedia-video/cinematacms/commit/8c5e9c618468d916a748446d5fdccaa173892c92) fix(home): stop preloading a hero thumbnail the page never displays (#1110) (#1127) — [`EngageMedia-video/cinematacms`](https://github.com/EngageMedia-video/cinematacms) <sub>Nov 11, 2026</sub>
 - 🔒 Private contribution <sub>Nov 11, 2026</sub>
 - 🔒 Private contribution <sub>Nov 10, 2026</sub>
-- 🔒 Private contribution <sub>Nov 9, 2026</sub>
-- 🔒 Private contribution <sub>Nov 7, 2026</sub>
 <!-- LATEST-COMMITS:END -->
