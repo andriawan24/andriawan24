@@ -25,9 +25,9 @@ I'm a Mobile Engineer and Tech Enthusiast. I love to code and learn about the la
 ### Latest commits
 
 <!-- LATEST-COMMITS:START -->
-- [`5a123d7`](https://github.com/EngageMedia-video/cinematacms/commit/5a123d79642bab8a9f7b29908f9969052174e497) fix(video-viewer): add Report and withdraw-report actions to the media page (#1155) — [`EngageMedia-video/cinematacms`](https://github.com/EngageMedia-video/cinematacms) <sub>Nov 15, 2026</sub>
-- [`19f5ac4`](https://github.com/EngageMedia-video/cinematacms/commit/19f5ac4abda16a6aadd6371201efee465cc09b04) feat(upload): adopt tus for resumable media uploads (#1005) (#1140) — [`EngageMedia-video/cinematacms`](https://github.com/EngageMedia-video/cinematacms) <sub>Nov 15, 2026</sub>
-- [`8c5e9c6`](https://github.com/EngageMedia-video/cinematacms/commit/8c5e9c618468d916a748446d5fdccaa173892c92) fix(home): stop preloading a hero thumbnail the page never displays (#1110) (#1127) — [`EngageMedia-video/cinematacms`](https://github.com/EngageMedia-video/cinematacms) <sub>Nov 11, 2026</sub>
-- 🔒 Private contribution <sub>Nov 11, 2026</sub>
-- 🔒 Private contribution <sub>Nov 10, 2026</sub>
+- [`2aad919`](https://github.com/andriawan24/cofinance/commit/2aad9199c0870ea8d61593e384a4c4113d503346) docs: point agents and the readme at the research notes and current stack — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Nov 16, 2026</sub>
+- [`b79fd8c`](https://github.com/andriawan24/cofinance/commit/b79fd8c47f375d89e7a21f957ef7280f382753af) chore(openspec): remove the openspec tree and its agent tooling — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Nov 16, 2026</sub>
+- [`e7bd12a`](https://github.com/andriawan24/cofinance/commit/e7bd12aba529e7c732cb44ecfa5c900c9ff2cc54) docs(research): add research notes covering each area of the project — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Nov 16, 2026</sub>
+- [`ac66286`](https://github.com/andriawan24/cofinance/commit/ac66286cb9388bcb2842d0ba4de9750569cdf857) refactor(android): share one package name for namespace and application id — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Nov 16, 2026</sub>
+- [`67d1ae5`](https://github.com/andriawan24/cofinance/commit/67d1ae5ffd5581ab9b93c6f81f7b962f6598e6d0) build(gradle): bump the wrapper to 9.9.1 — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Nov 16, 2026</sub>
 <!-- LATEST-COMMITS:END -->
