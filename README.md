@@ -25,9 +25,9 @@ I'm a Mobile Engineer and Tech Enthusiast. I love to code and learn about the la
 ### Latest commits
 
 <!-- LATEST-COMMITS:START -->
+- 🔒 Private contribution <sub>Nov 17, 2026</sub>
+- 🔒 Private contribution <sub>Nov 17, 2026</sub>
+- 🔒 Private contribution <sub>Nov 17, 2026</sub>
+- [`d156b0b`](https://github.com/EngageMedia-video/cinematacms/commit/d156b0b29a53ddcb4238655e8f88267be8382d99) feat(upload): explain a continued upload and show the stored progress (#1005) (#1167) — [`EngageMedia-video/cinematacms`](https://github.com/EngageMedia-video/cinematacms) <sub>Nov 17, 2026</sub>
 - [`2aad919`](https://github.com/andriawan24/cofinance/commit/2aad9199c0870ea8d61593e384a4c4113d503346) docs: point agents and the readme at the research notes and current stack — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Nov 16, 2026</sub>
-- [`b79fd8c`](https://github.com/andriawan24/cofinance/commit/b79fd8c47f375d89e7a21f957ef7280f382753af) chore(openspec): remove the openspec tree and its agent tooling — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Nov 16, 2026</sub>
-- [`e7bd12a`](https://github.com/andriawan24/cofinance/commit/e7bd12aba529e7c732cb44ecfa5c900c9ff2cc54) docs(research): add research notes covering each area of the project — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Nov 16, 2026</sub>
-- [`ac66286`](https://github.com/andriawan24/cofinance/commit/ac66286cb9388bcb2842d0ba4de9750569cdf857) refactor(android): share one package name for namespace and application id — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Nov 16, 2026</sub>
-- [`67d1ae5`](https://github.com/andriawan24/cofinance/commit/67d1ae5ffd5581ab9b93c6f81f7b962f6598e6d0) build(gradle): bump the wrapper to 9.9.1 — [`andriawan24/cofinance`](https://github.com/andriawan24/cofinance) <sub>Nov 16, 2026</sub>
 <!-- LATEST-COMMITS:END -->
